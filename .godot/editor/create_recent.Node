@@ -1,0 +1,14 @@
+CollisionShape2D
+Area2D
+Sprite2D
+Label
+RayCast2D
+AnimatedSprite2D
+Node2D
+Node
+AnimationPlayer
+TextureRect
+TileMapLayer
+TextEdit
+Timer
+AnimatableBody2D
